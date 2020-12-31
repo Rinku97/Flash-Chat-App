@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942468114259",
+    "firebase_url": "https://flash-chat-669b8.firebaseio.com",
+    "project_id": "flash-chat-669b8",
+    "storage_bucket": "flash-chat-669b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942468114259:android:2e6ec7b65f23ecc200a3a6",
+        "android_client_info": {
+          "package_name": "co.rinku.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942468114259-mdefi2uqr4qvdcou9kioilmhosg8lltd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgH0tPOZImUZEj_L8jNNLFRnkDx819pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942468114259-mdefi2uqr4qvdcou9kioilmhosg8lltd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
